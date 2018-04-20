@@ -2,127 +2,1022 @@
    "Packstations":
    [
       {
-         "id": "410247230",
-         "objectId": "10247230",
-         "packstationId": "230",
-         "automatType": "4",
-         "positionType": "0",
-         "opStatusType": "1",
-         "hasXLPostfach": "false",
-         "distance": "291",
-         "address": {
-            "street": "Rigaer Str.",
-            "streetNo": "29c",
-            "zip": "10247",
-            "city": "Berlin",
-            "district": "Friedrichshain",
-            "country": "Deutschland"
-         },
-         "location": {
-            "latitude": "52.5160381",
-            "longitude": "13.4626509",
-            "distance": "291"
-         },
-         "timeinfos": []
-      },
-      {
-         "id": "410247493",
-         "objectId": "10247493",
-         "packstationId": "493",
-         "automatType": "4",
-         "positionType": "0",
-         "opStatusType": "1",
-         "hasXLPostfach": "false",
-         "distance": "459",
-         "address": {
-            "street": "Eldenaer Str.",
-            "streetNo": "34a",
-            "zip": "10247",
-            "city": "Berlin",
-            "district": "Friedrichshain",
-            "country": "Deutschland",
-            "remark": "Lidl Markt"
-         },
-         "location": {
-            "latitude": "52.5207967",
-            "longitude": "13.4678329",
-            "distance": "459"
-         },
-         "timeinfos": []
-      },
-      {
-         "id": "410249252",
-         "objectId": "10249252",
-         "packstationId": "252",
-         "automatType": "4",
-         "positionType": "0",
-         "opStatusType": "1",
-         "hasXLPostfach": "false",
-         "distance": "793",
-         "address": {
-            "street": "Eckertstr.",
-            "streetNo": "7-11",
-            "zip": "10249",
-            "city": "Berlin",
-            "district": "Friedrichshain",
-            "country": "Deutschland",
-            "remark": "EDEKA Markt, Zugang Mühsamstr."
-         },
-         "location": {
-            "latitude": "52.5199242",
-            "longitude": "13.4505273",
-            "distance": "793"
-         },
-         "timeinfos": []
-      },
-      {
-         "id": "410247448",
-         "objectId": "10247448",
-         "packstationId": "448",
-         "automatType": "4",
-         "positionType": "0",
-         "opStatusType": "1",
-         "hasXLPostfach": "false",
-         "distance": "846",
-         "address": {
-            "street": "Frankfurter Allee",
-            "streetNo": "94",
-            "zip": "10247",
-            "city": "Berlin",
-            "district": "Friedrichshain",
-            "country": "Deutschland",
-            "remark": "Im Durchgang"
-         },
-         "location": {
-            "latitude": "52.5137617",
-            "longitude": "13.471661",
-            "distance": "846"
-         },
-         "timeinfos": []
-      },
-      {
-         "id": "410407153",
-         "objectId": "10407153",
-         "packstationId": "153",
-         "automatType": "4",
-         "positionType": "0",
-         "opStatusType": "1",
-         "hasXLPostfach": "false",
-         "distance": "1223",
-         "address": {
-            "street": "Landsberger Allee",
-            "zip": "10407",
-            "city": "Berlin",
-            "district": "Prenzlauer Berg",
-            "country": "Deutschland",
-            "remark": "S-Bhf Landsberger Allee, Eingang Storkower Str."
-         },
-         "location": {
-            "latitude": "52.5291856",
-            "longitude": "13.4569681",
-            "distance": "1223"
-         },
-         "timeinfos": []
-      }
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "false",
+                  "distance": "148",
+                  "address": {
+                     "street": "Charles-de-Gaulle-Str.",
+                     "streetNo": "20",
+                     "zip": "53113",
+                     "city": "Bonn",
+                     "district": "Zentrum",
+                     "country": "Deutschland",
+                     "remark": "Post Tower, am Sockelgebäude, gegenüber der Postfiliale"
+                  },
+                  "location": {
+                     "latitude": "50.7169763",
+                     "longitude": "7.1329916",
+                     "distance": "148"
+                  },
+                  "_id": "453113145",
+                  "_objectId": "53113145",
+                  "_packstationId": "145"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "true",
+                  "distance": "380",
+                  "address": {
+                     "street": "Heinrich-Brüning-Str.",
+                     "streetNo": "5",
+                     "zip": "53113",
+                     "city": "Bonn",
+                     "district": "Gronau",
+                     "country": "Deutschland"
+                  },
+                  "location": {
+                     "latitude": "50.716214",
+                     "longitude": "7.1265234",
+                     "distance": "380"
+                  },
+                  "_id": "453113139",
+                  "_objectId": "53113139",
+                  "_packstationId": "139"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "false",
+                  "distance": "474",
+                  "address": {
+                     "street": "Sträßchensweg",
+                     "streetNo": "10",
+                     "zip": "53113",
+                     "city": "Bonn",
+                     "district": "Zentrum",
+                     "country": "Deutschland",
+                     "remark": "Pakethaus, links vom Haupteingang im Gebäuderücksprung"
+                  },
+                  "location": {
+                     "latitude": "50.7135379",
+                     "longitude": "7.131924",
+                     "distance": "474"
+                  },
+                  "_id": "453113150",
+                  "_objectId": "53113150",
+                  "_packstationId": "150"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "false",
+                  "distance": "990",
+                  "address": {
+                     "street": "Karl-Marx-Str.",
+                     "streetNo": "11",
+                     "zip": "53113",
+                     "city": "Bonn",
+                     "district": "Zentrum",
+                     "country": "Deutschland",
+                     "remark": "Deutsche Telekom, an der Ein-/Ausfahrt zur Tiefgarage"
+                  },
+                  "location": {
+                     "latitude": "50.7095283",
+                     "longitude": "7.1260323",
+                     "distance": "990"
+                  },
+                  "_id": "453113802",
+                  "_objectId": "53113802",
+                  "_packstationId": "802"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "false",
+                  "distance": "1444",
+                  "address": {
+                     "street": "Reuterstr.",
+                     "streetNo": "122",
+                     "zip": "53129",
+                     "city": "Bonn",
+                     "district": "Poppelsdorf",
+                     "country": "Deutschland",
+                     "remark": "Postbank"
+                  },
+                  "location": {
+                     "latitude": "50.7197891",
+                     "longitude": "7.1110511",
+                     "distance": "1444"
+                  },
+                  "_id": "453129148",
+                  "_objectId": "53129148",
+                  "_packstationId": "148"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "false",
+                  "distance": "2287",
+                  "address": {
+                     "street": "Beueler Bahnhofsplatz",
+                     "streetNo": "1",
+                     "zip": "53225",
+                     "city": "Bonn",
+                     "district": "Beuel",
+                     "country": "Deutschland",
+                     "remark": "Bahnhof Beuel, außen"
+                  },
+                  "location": {
+                     "latitude": "50.7382028",
+                     "longitude": "7.1273251",
+                     "distance": "2287"
+                  },
+                  "_id": "453225146",
+                  "_objectId": "53225146",
+                  "_packstationId": "146"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "false",
+                  "distance": "2660",
+                  "address": {
+                     "street": "Godesberger Str.",
+                     "streetNo": "63",
+                     "zip": "53175",
+                     "city": "Bonn",
+                     "district": "Friesdorf",
+                     "country": "Deutschland",
+                     "remark": "OBI"
+                  },
+                  "location": {
+                     "latitude": "50.6944664",
+                     "longitude": "7.1397775",
+                     "distance": "2660"
+                  },
+                  "_id": "453175144",
+                  "_objectId": "53175144",
+                  "_packstationId": "144"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "1",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "false",
+                  "distance": "2698",
+                  "address": {
+                     "street": "Kreuzstr.",
+                     "streetNo": "22",
+                     "zip": "53225",
+                     "city": "Bonn",
+                     "district": "Beuel",
+                     "country": "Deutschland",
+                     "remark": "Postbank Finanzcenter"
+                  },
+                  "location": {
+                     "latitude": "50.741448",
+                     "longitude": "7.1228129",
+                     "distance": "2698"
+                  },
+                  "_id": "453225106",
+                  "_objectId": "53225106",
+                  "_packstationId": "106"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "false",
+                  "distance": "2798",
+                  "address": {
+                     "street": "Godesberger Allee",
+                     "streetNo": "57",
+                     "zip": "53175",
+                     "city": "Bonn",
+                     "district": "Friesdorf",
+                     "country": "Deutschland",
+                     "remark": "A.T.U. Parkplatz"
+                  },
+                  "location": {
+                     "latitude": "50.693951",
+                     "longitude": "7.1441068",
+                     "distance": "2798"
+                  },
+                  "_id": "453175111",
+                  "_objectId": "53175111",
+                  "_packstationId": "111"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "false",
+                  "distance": "2816",
+                  "address": {
+                     "street": "Sigmund-Freud-Str.",
+                     "streetNo": "21",
+                     "zip": "53127",
+                     "city": "Bonn",
+                     "district": "Venusberg",
+                     "country": "Deutschland",
+                     "remark": "Uni-Klinik, gegenüber Versorgungszentrum"
+                  },
+                  "location": {
+                     "latitude": "50.7003984",
+                     "longitude": "7.1022431",
+                     "distance": "2816"
+                  },
+                  "_id": "453127115",
+                  "_objectId": "53127115",
+                  "_packstationId": "115"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "false",
+                  "distance": "2850",
+                  "address": {
+                     "street": "Am Hauptbahnhof",
+                     "streetNo": "1",
+                     "zip": "53111",
+                     "city": "Bonn",
+                     "district": "Zentrum",
+                     "country": "Deutschland",
+                     "remark": "Hauptbahnhof, Gleis 1, zwischen den Abgängen"
+                  },
+                  "location": {
+                     "latitude": "50.7320153",
+                     "longitude": "7.09764",
+                     "distance": "2850"
+                  },
+                  "_id": "453111110",
+                  "_objectId": "53111110",
+                  "_packstationId": "110"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "false",
+                  "distance": "2881",
+                  "address": {
+                     "street": "Quantiusstr.",
+                     "streetNo": "26",
+                     "zip": "53115",
+                     "city": "Bonn",
+                     "district": "Zentrum",
+                     "country": "Deutschland",
+                     "remark": "Am Hauptbahnhof 1, Personentunnel, Ausgang Quantiusstrasse"
+                  },
+                  "location": {
+                     "latitude": "50.7316059",
+                     "longitude": "7.0967039",
+                     "distance": "2881"
+                  },
+                  "_id": "453115105",
+                  "_objectId": "53115105",
+                  "_packstationId": "105"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "false",
+                  "distance": "3089",
+                  "address": {
+                     "street": "Wurzerstr.",
+                     "streetNo": "101",
+                     "zip": "53175",
+                     "city": "Bonn",
+                     "district": "Plittersdorf",
+                     "country": "Deutschland",
+                     "remark": "REWE Markt"
+                  },
+                  "location": {
+                     "latitude": "50.6964629",
+                     "longitude": "7.1594571",
+                     "distance": "3089"
+                  },
+                  "_id": "453175250",
+                  "_objectId": "53175250",
+                  "_packstationId": "250"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "true",
+                  "distance": "3097",
+                  "address": {
+                     "street": "Clemens-August-Str.",
+                     "streetNo": "60",
+                     "zip": "53115",
+                     "city": "Bonn",
+                     "district": "Poppelsdorf",
+                     "country": "Deutschland",
+                     "remark": "Parkplatz Sebastian Apotheke"
+                  },
+                  "location": {
+                     "latitude": "50.7211723",
+                     "longitude": "7.0876496",
+                     "distance": "3097"
+                  },
+                  "_id": "453115136",
+                  "_objectId": "53115136",
+                  "_packstationId": "136"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "false",
+                  "distance": "3230",
+                  "address": {
+                     "street": "Sankt Augustiner Str.",
+                     "streetNo": "145",
+                     "zip": "53225",
+                     "city": "Bonn",
+                     "district": "Beuel",
+                     "country": "Deutschland",
+                     "remark": "Esso-Tankstelle"
+                  },
+                  "location": {
+                     "latitude": "50.7465002",
+                     "longitude": "7.1243165",
+                     "distance": "3230"
+                  },
+                  "_id": "453225112",
+                  "_objectId": "53225112",
+                  "_packstationId": "112"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "true",
+                  "distance": "3606",
+                  "address": {
+                     "street": "Im Mühlenbruch",
+                     "streetNo": "3-5",
+                     "zip": "53639",
+                     "city": "Königswinter",
+                     "district": "Oberdollendorf",
+                     "country": "Deutschland",
+                     "remark": "ALDI"
+                  },
+                  "location": {
+                     "latitude": "50.7026078",
+                     "longitude": "7.1765944",
+                     "distance": "3606"
+                  },
+                  "_id": "453639118",
+                  "_objectId": "53639118",
+                  "_packstationId": "118"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "false",
+                  "distance": "3664",
+                  "address": {
+                     "street": "Im Mühlenbruch",
+                     "streetNo": "4",
+                     "zip": "53639",
+                     "city": "Königswinter",
+                     "district": "Oberdollendorf",
+                     "country": "Deutschland",
+                     "remark": "Obi"
+                  },
+                  "location": {
+                     "latitude": "50.7018247",
+                     "longitude": "7.1768569",
+                     "distance": "3664"
+                  },
+                  "_id": "453639153",
+                  "_objectId": "53639153",
+                  "_packstationId": "153"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "false",
+                  "distance": "3896",
+                  "address": {
+                     "street": "Dorotheenstr.",
+                     "streetNo": "103",
+                     "zip": "53111",
+                     "city": "Bonn",
+                     "district": "Zentrum",
+                     "country": "Deutschland",
+                     "remark": "Postfiliale"
+                  },
+                  "location": {
+                     "latitude": "50.7404633",
+                     "longitude": "7.0891256",
+                     "distance": "3896"
+                  },
+                  "timeinfos": {
+                     "timeinfo": [
+                        {
+                           "type": "6",
+                           "dayTo": "3",
+                           "timeFrom": "07:00",
+                           "timeTo": "19:00"
+                        },
+                        {
+                           "type": "6",
+                           "dayTo": "6",
+                           "timeFrom": "07:00",
+                           "timeTo": "14:00"
+                        },
+                        {
+                           "type": "6",
+                           "dayTo": "1",
+                           "timeFrom": "07:00",
+                           "timeTo": "19:00"
+                        },
+                        {
+                           "type": "6",
+                           "dayTo": "4",
+                           "timeFrom": "07:00",
+                           "timeTo": "19:00"
+                        },
+                        {
+                           "type": "6",
+                           "dayTo": "5",
+                           "timeFrom": "07:00",
+                           "timeTo": "19:00"
+                        },
+                        {
+                           "type": "6",
+                           "dayTo": "2",
+                           "timeFrom": "07:00",
+                           "timeTo": "19:00"
+                        }
+                     ]
+                  },
+                  "_id": "453111103",
+                  "_objectId": "53111103",
+                  "_packstationId": "103"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "false",
+                  "distance": "3906",
+                  "address": {
+                     "street": "Kaiser-Karl-Ring",
+                     "streetNo": "59-63",
+                     "zip": "53111",
+                     "city": "Bonn",
+                     "district": "Zentrum",
+                     "country": "Deutschland",
+                     "remark": "Ecke Vorgebirgsstraße, links der Einfahrt"
+                  },
+                  "location": {
+                     "latitude": "50.7399451",
+                     "longitude": "7.088263",
+                     "distance": "3906"
+                  },
+                  "_id": "453111137",
+                  "_objectId": "53111137",
+                  "_packstationId": "137"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "true",
+                  "distance": "4068",
+                  "address": {
+                     "street": "Römerstr.",
+                     "streetNo": "118",
+                     "zip": "53117",
+                     "city": "Bonn",
+                     "district": "Zentrum",
+                     "country": "Deutschland"
+                  },
+                  "location": {
+                     "latitude": "50.7482176",
+                     "longitude": "7.0992306",
+                     "distance": "4068"
+                  },
+                  "_id": "453117138",
+                  "_objectId": "53117138",
+                  "_packstationId": "138"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "false",
+                  "distance": "4193",
+                  "address": {
+                     "street": "Schwertberger Str.",
+                     "streetNo": "14",
+                     "zip": "53177",
+                     "city": "Bonn",
+                     "district": "Bad Godesberg",
+                     "country": "Deutschland",
+                     "remark": "Parkplatz Fronhofer Galeria"
+                  },
+                  "location": {
+                     "latitude": "50.6822649",
+                     "longitude": "7.1513654",
+                     "distance": "4193"
+                  },
+                  "_id": "453177114",
+                  "_objectId": "53177114",
+                  "_packstationId": "114"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "false",
+                  "distance": "4277",
+                  "address": {
+                     "street": "Moltkestr.",
+                     "streetNo": "41",
+                     "zip": "53173",
+                     "city": "Bonn",
+                     "district": "Bad Godesberg",
+                     "country": "Deutschland",
+                     "remark": "links neben dem Bahnhof"
+                  },
+                  "location": {
+                     "latitude": "50.6837572",
+                     "longitude": "7.1596772",
+                     "distance": "4277"
+                  },
+                  "_id": "453173109",
+                  "_objectId": "53173109",
+                  "_packstationId": "109"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "true",
+                  "distance": "4660",
+                  "address": {
+                     "street": "Potsdamer Platz",
+                     "streetNo": "2",
+                     "zip": "53119",
+                     "city": "Bonn",
+                     "district": "Zentrum",
+                     "country": "Deutschland",
+                     "remark": "Aral-Tankstelle"
+                  },
+                  "location": {
+                     "latitude": "50.7431345",
+                     "longitude": "7.0785805",
+                     "distance": "4660"
+                  },
+                  "_id": "453119134",
+                  "_objectId": "53119134",
+                  "_packstationId": "134"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "false",
+                  "distance": "4660",
+                  "address": {
+                     "street": "Am Propsthof",
+                     "streetNo": "94",
+                     "zip": "53121",
+                     "city": "Bonn",
+                     "district": "Endenich",
+                     "country": "Deutschland",
+                     "remark": "Postfachanlage"
+                  },
+                  "location": {
+                     "latitude": "50.7348425",
+                     "longitude": "7.0708341",
+                     "distance": "4660"
+                  },
+                  "_id": "453121153",
+                  "_objectId": "53121153",
+                  "_packstationId": "153"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "true",
+                  "distance": "5190",
+                  "address": {
+                     "street": "Basketsring",
+                     "streetNo": "3",
+                     "zip": "53123",
+                     "city": "Bonn",
+                     "district": "Duisdorf",
+                     "country": "Deutschland",
+                     "remark": "EDEKA-Markt"
+                  },
+                  "location": {
+                     "latitude": "50.7066369",
+                     "longitude": "7.0597243",
+                     "distance": "5190"
+                  },
+                  "_id": "453123108",
+                  "_objectId": "53123108",
+                  "_packstationId": "108"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "false",
+                  "distance": "5221",
+                  "address": {
+                     "street": "Rochusstr.",
+                     "streetNo": "46",
+                     "zip": "53123",
+                     "city": "Bonn",
+                     "district": "Duisdorf",
+                     "country": "Deutschland"
+                  },
+                  "location": {
+                     "latitude": "50.7194148",
+                     "longitude": "7.0571878",
+                     "distance": "5221"
+                  },
+                  "_id": "453123107",
+                  "_objectId": "53123107",
+                  "_packstationId": "107"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "false",
+                  "distance": "5584",
+                  "address": {
+                     "street": "Kölnstr.",
+                     "streetNo": "455",
+                     "zip": "53117",
+                     "city": "Bonn",
+                     "district": "Zentrum",
+                     "country": "Deutschland",
+                     "remark": "Esso-Tankstelle"
+                  },
+                  "location": {
+                     "latitude": "50.7524347",
+                     "longitude": "7.073873",
+                     "distance": "5584"
+                  },
+                  "_id": "453117116",
+                  "_objectId": "53117116",
+                  "_packstationId": "116"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "false",
+                  "distance": "5600",
+                  "address": {
+                     "street": "Auerberger Mitte",
+                     "streetNo": "4",
+                     "zip": "53117",
+                     "city": "Bonn",
+                     "district": "Auerberg",
+                     "country": "Deutschland",
+                     "remark": "Im Einkaufzentrum, Zugang über Platz von Prager Str. aus"
+                  },
+                  "location": {
+                     "latitude": "50.7552397",
+                     "longitude": "7.0781028",
+                     "distance": "5600"
+                  },
+                  "_id": "453117151",
+                  "_objectId": "53117151",
+                  "_packstationId": "151"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "false",
+                  "distance": "6077",
+                  "address": {
+                     "street": "Hohe Str.",
+                     "streetNo": "65",
+                     "zip": "53119",
+                     "city": "Bonn",
+                     "district": "Tannenbusch",
+                     "country": "Deutschland",
+                     "remark": "Durchfahrt zum hinteren Parkplatz"
+                  },
+                  "location": {
+                     "latitude": "50.7432516",
+                     "longitude": "7.0549071",
+                     "distance": "6077"
+                  },
+                  "_id": "453119152",
+                  "_objectId": "53119152",
+                  "_packstationId": "152"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "false",
+                  "distance": "6533",
+                  "address": {
+                     "street": "Rochusstr.",
+                     "streetNo": "344-346",
+                     "zip": "53123",
+                     "city": "Bonn",
+                     "district": "Duisdorf",
+                     "country": "Deutschland",
+                     "remark": "Hellweg"
+                  },
+                  "location": {
+                     "latitude": "50.7152651",
+                     "longitude": "7.0385939",
+                     "distance": "6533"
+                  },
+                  "_id": "453123149",
+                  "_objectId": "53123149",
+                  "_packstationId": "149"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "false",
+                  "distance": "10122",
+                  "address": {
+                     "street": "Industriestr.",
+                     "streetNo": "39a",
+                     "zip": "53721",
+                     "city": "Siegburg",
+                     "country": "Deutschland",
+                     "remark": "neben dem ALDI Markt auf der Grünfläche"
+                  },
+                  "location": {
+                     "latitude": "50.7991898",
+                     "longitude": "7.1957955",
+                     "distance": "10122"
+                  },
+                  "_id": "453721146",
+                  "_objectId": "53721146",
+                  "_packstationId": "146"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "false",
+                  "distance": "10476",
+                  "address": {
+                     "street": "Königswinterer Str.",
+                     "streetNo": "91",
+                     "zip": "53639",
+                     "city": "Königswinter",
+                     "district": "Oberpleis",
+                     "country": "Deutschland",
+                     "remark": "ALDI Markt"
+                  },
+                  "location": {
+                     "latitude": "50.7016155",
+                     "longitude": "7.277922",
+                     "distance": "10476"
+                  },
+                  "_id": "453639147",
+                  "_objectId": "53639147",
+                  "_packstationId": "147"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "1",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "true",
+                  "distance": "10510",
+                  "address": {
+                     "street": "Bahnhofstr.",
+                     "streetNo": "1",
+                     "zip": "53604",
+                     "city": "Bad Honnef",
+                     "district": "Bad Honnef",
+                     "country": "Deutschland",
+                     "remark": "Postbank Finanzcenter, Hofzufahrt"
+                  },
+                  "location": {
+                     "latitude": "50.6443347",
+                     "longitude": "7.2252615",
+                     "distance": "10510"
+                  },
+                  "_id": "453604117",
+                  "_objectId": "53604117",
+                  "_packstationId": "117"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "true",
+                  "distance": "10621",
+                  "address": {
+                     "street": "Sieglarer Str.",
+                     "streetNo": "44",
+                     "zip": "53842",
+                     "city": "Troisdorf",
+                     "district": "Oberlar",
+                     "country": "Deutschland",
+                     "remark": "Parkplatz Luisenstr."
+                  },
+                  "location": {
+                     "latitude": "50.813053",
+                     "longitude": "7.1426222",
+                     "distance": "10621"
+                  },
+                  "_id": "453842125",
+                  "_objectId": "53842125",
+                  "_packstationId": "125"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "false",
+                  "distance": "10756",
+                  "address": {
+                     "street": "Oberlarer Platz",
+                     "zip": "53842",
+                     "city": "Troisdorf",
+                     "country": "Deutschland",
+                     "remark": "Magdalenenstr."
+                  },
+                  "location": {
+                     "latitude": "50.8144836",
+                     "longitude": "7.1364167",
+                     "distance": "10756"
+                  },
+                  "_id": "453842145",
+                  "_objectId": "53842145",
+                  "_packstationId": "145"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "false",
+                  "distance": "11978",
+                  "address": {
+                     "street": "Bonner Str.",
+                     "streetNo": "12a",
+                     "zip": "53773",
+                     "city": "Hennef (Sieg)",
+                     "district": "Hennef",
+                     "country": "Deutschland",
+                     "remark": "REWE"
+                  },
+                  "location": {
+                     "latitude": "50.7723785",
+                     "longitude": "7.278123",
+                     "distance": "11978"
+                  },
+                  "_id": "453773120",
+                  "_objectId": "53773120",
+                  "_packstationId": "120"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "false",
+                  "distance": "12087",
+                  "address": {
+                     "street": "Am Hellenkreuz",
+                     "streetNo": "5",
+                     "zip": "53332",
+                     "city": "Bornheim",
+                     "district": "Bornheim",
+                     "country": "Deutschland",
+                     "remark": "ALDI Markt"
+                  },
+                  "location": {
+                     "latitude": "50.7635536",
+                     "longitude": "6.9754807",
+                     "distance": "12087"
+                  },
+                  "_id": "453332154",
+                  "_objectId": "53332154",
+                  "_packstationId": "154"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "false",
+                  "distance": "12421",
+                  "address": {
+                     "street": "Langeler Ring",
+                     "streetNo": "4",
+                     "zip": "53842",
+                     "city": "Troisdorf",
+                     "district": "Spich",
+                     "country": "Deutschland",
+                     "remark": "Briefzentrum"
+                  },
+                  "location": {
+                     "latitude": "50.8277574",
+                     "longitude": "7.1001186",
+                     "distance": "12421"
+                  },
+                  "_id": "453842155",
+                  "_objectId": "53842155",
+                  "_packstationId": "155"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "true",
+                  "distance": "12855",
+                  "address": {
+                     "street": "Hauptstr.",
+                     "streetNo": "83",
+                     "zip": "53859",
+                     "city": "Niederkassel",
+                     "district": "Niederkassel",
+                     "country": "Deutschland",
+                     "remark": "Textilhaus Miesen"
+                  },
+                  "location": {
+                     "latitude": "50.8163112",
+                     "longitude": "7.035625",
+                     "distance": "12855"
+                  },
+                  "_id": "453859126",
+                  "_objectId": "53859126",
+                  "_packstationId": "126"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "true",
+                  "distance": "12976",
+                  "address": {
+                     "street": "Hauptstr.",
+                     "streetNo": "20",
+                     "zip": "53340",
+                     "city": "Meckenheim",
+                     "district": "Meckenheim",
+                     "country": "Deutschland",
+                     "remark": "Unterer Marktplatz, neben Hauptstraße 20"
+                  },
+                  "location": {
+                     "latitude": "50.6244885",
+                     "longitude": "7.0206626",
+                     "distance": "12976"
+                  },
+                  "_id": "453340113",
+                  "_objectId": "53340113",
+                  "_packstationId": "113"
+               },
+               {
+                  "automatType": "4",
+                  "positionType": "0",
+                  "opStatusType": "1",
+                  "hasXLPostfach": "true",
+                  "distance": "13931",
+                  "address": {
+                     "street": "Hauptstr.",
+                     "streetNo": "132",
+                     "zip": "53797",
+                     "city": "Lohmar",
+                     "district": "Lohmar",
+                     "country": "Deutschland",
+                     "remark": "Esso Tankstelle, Einfahrt Waschstraße"
+                  },
+                  "location": {
+                     "latitude": "50.8336974",
+                     "longitude": "7.2066138",
+                     "distance": "13931"
+                  },
+                  "_id": "453797122",
+                  "_objectId": "53797122",
+                  "_packstationId": "122"
+                }
    ]
 }

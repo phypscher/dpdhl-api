@@ -1,0 +1,128 @@
+{
+   "Packstations":
+   [
+      {
+         "id": "410247230",
+         "objectId": "10247230",
+         "packstationId": "230",
+         "automatType": "4",
+         "positionType": "0",
+         "opStatusType": "1",
+         "hasXLPostfach": "false",
+         "distance": "291",
+         "address": {
+            "street": "Rigaer Str.",
+            "streetNo": "29c",
+            "zip": "10247",
+            "city": "Berlin",
+            "district": "Friedrichshain",
+            "country": "Deutschland"
+         },
+         "location": {
+            "latitude": "52.5160381",
+            "longitude": "13.4626509",
+            "distance": "291"
+         },
+         "timeinfos": []
+      },
+      {
+         "id": "410247493",
+         "objectId": "10247493",
+         "packstationId": "493",
+         "automatType": "4",
+         "positionType": "0",
+         "opStatusType": "1",
+         "hasXLPostfach": "false",
+         "distance": "459",
+         "address": {
+            "street": "Eldenaer Str.",
+            "streetNo": "34a",
+            "zip": "10247",
+            "city": "Berlin",
+            "district": "Friedrichshain",
+            "country": "Deutschland",
+            "remark": "Lidl Markt"
+         },
+         "location": {
+            "latitude": "52.5207967",
+            "longitude": "13.4678329",
+            "distance": "459"
+         },
+         "timeinfos": []
+      },
+      {
+         "id": "410249252",
+         "objectId": "10249252",
+         "packstationId": "252",
+         "automatType": "4",
+         "positionType": "0",
+         "opStatusType": "1",
+         "hasXLPostfach": "false",
+         "distance": "793",
+         "address": {
+            "street": "Eckertstr.",
+            "streetNo": "7-11",
+            "zip": "10249",
+            "city": "Berlin",
+            "district": "Friedrichshain",
+            "country": "Deutschland",
+            "remark": "EDEKA Markt, Zugang Mühsamstr."
+         },
+         "location": {
+            "latitude": "52.5199242",
+            "longitude": "13.4505273",
+            "distance": "793"
+         },
+         "timeinfos": []
+      },
+      {
+         "id": "410247448",
+         "objectId": "10247448",
+         "packstationId": "448",
+         "automatType": "4",
+         "positionType": "0",
+         "opStatusType": "1",
+         "hasXLPostfach": "false",
+         "distance": "846",
+         "address": {
+            "street": "Frankfurter Allee",
+            "streetNo": "94",
+            "zip": "10247",
+            "city": "Berlin",
+            "district": "Friedrichshain",
+            "country": "Deutschland",
+            "remark": "Im Durchgang"
+         },
+         "location": {
+            "latitude": "52.5137617",
+            "longitude": "13.471661",
+            "distance": "846"
+         },
+         "timeinfos": []
+      },
+      {
+         "id": "410407153",
+         "objectId": "10407153",
+         "packstationId": "153",
+         "automatType": "4",
+         "positionType": "0",
+         "opStatusType": "1",
+         "hasXLPostfach": "false",
+         "distance": "1223",
+         "address": {
+            "street": "Landsberger Allee",
+            "zip": "10407",
+            "city": "Berlin",
+            "district": "Prenzlauer Berg",
+            "country": "Deutschland",
+            "remark": "S-Bhf Landsberger Allee, Eingang Storkower Str."
+         },
+         "location": {
+            "latitude": "52.5291856",
+            "longitude": "13.4569681",
+            "distance": "1223"
+         },
+         "timeinfos": []
+      }
+   ]
+}
